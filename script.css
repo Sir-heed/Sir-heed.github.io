@@ -105,6 +105,7 @@ input {
   display: flex;
   justify-content: center;
   align-items: center;
+  height: 41px;
 }
 
 .item-7 img {
