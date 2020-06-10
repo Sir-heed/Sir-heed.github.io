@@ -102,6 +102,9 @@ input {
 .text {
   flex: 9;
   padding-left: 9px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .item-7 img {
@@ -109,7 +112,8 @@ input {
   height: 21px;
 }
 
-.item-7 p {
+.item-7 p,
+.item-8 p {
   flex: 6;
 }
 
